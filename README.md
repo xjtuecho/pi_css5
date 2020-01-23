@@ -2,8 +2,10 @@
 
 PI(= 3.1415926535897932384626...) Calculation Program.
 
-[readme.txt](readme.txt)
-[install.txt](install.txt)
+## Documents
+
+- [readme.txt](readme.txt)
+- [install.txt](install.txt)
 
 ## 1M benchmark result on some SoC
 
